@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Comando para ejecutar
-CMD ["npm", "start"]
+CMD ["npm", "start"] 
