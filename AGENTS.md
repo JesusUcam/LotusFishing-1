@@ -28,7 +28,7 @@
 ## Backend Direction
 - The user is interested in learning .NET.
 - The user considered TypeScript on the backend for stack consistency with the frontend.
-- The frontend decision is already made: Vue + Nuxt + TypeScript.
+- The frontend decision is already made: Vue + Nuxt + TypeScript. 
 - Backend persistence should be designed around PostgreSQL from the start.
 - Current backend direction: a dedicated TypeScript API with clean separation between controllers, services, and datasources.
 
