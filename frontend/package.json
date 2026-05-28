@@ -1,0 +1,15 @@
+{
+  "name": "lotus-fishing-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^4.1.0",
+    "vue": "^3.5.13"
+  }
+}
+
